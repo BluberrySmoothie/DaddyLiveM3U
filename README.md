@@ -1,3 +1,8 @@
+## Support the Project
+If you like my work, feel free to buy me a coffee! ☕
+https://buymeacoffee.com/BluberrySmoothie
+
+
 # DaddyLiveM3U
 Re-streamer of DaddyLive channels
 
